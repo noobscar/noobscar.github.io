@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Official Thermomixer Website: "https://thermomix.com.au/"
-    - My Facebook: "https://www.facebook.com/debnjuls.bielawski"
+    - My Facebook: "https://www.facebook.com/thatthermomixgirl.au"
   Travel Updates: "https://www.facebook.com/thebcrew.2025"
 
 ################
@@ -52,7 +52,7 @@ round-avatar: true
 social-network-links:
   email: "Thermie_And_TheBCrew@protonmail.com"
  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+  facebook: That Thermomix Girl
  # github: daattali
  # twitter: daattali
  # patreon: DeanAttali
